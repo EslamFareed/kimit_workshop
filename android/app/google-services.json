@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "378338730172",
+    "project_id": "kimit-course",
+    "storage_bucket": "kimit-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378338730172:android:83c127174b861c776fb0b9",
+        "android_client_info": {
+          "package_name": "com.example.kimit_workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378338730172-10tjbjour7thlj1bthmv8rb4658j4ofo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGih5BVRag8BdQtO0HTFN6SLvZyYqGbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378338730172-10tjbjour7thlj1bthmv8rb4658j4ofo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378338730172-a893f884ro0hcv88crsuecvvktpnp8kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseKimit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
